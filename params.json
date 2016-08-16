@@ -1,0 +1,6 @@
+{
+  "name": "Repositorio19",
+  "tagline": "",
+  "body": "# Este es el README (leeme)\r\n\r\nEn este sitio de Github, se utiliza **Markdown** para poder darle formato al texto. \r\n\r\nTambién se pueden agregar bullets: \r\n\r\n - 1\r\n - 2\r\n - 3\r\n\r\nY para agregar *cursivas, usamos los asteriscos*. \r\n\r\nPara poder enviar [enlaces](https://www.google.com), utilizamos esta sintaxis. \r\n\r\nAdios! \r\n\r\n--",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
